@@ -13,7 +13,7 @@ Chiarini Alberto <br>
 Cozzi Luca <br>
 **Classe 2^I Info** <br>
 Iorio Daniele <br>
-Colella Alessio 
+Colella Alessio <br>
 Finardi Andrea <br>
 Cerani Diego - Ispirazione per i Diegometri (vedi repositories) <br>
 **2 IME** <br>
