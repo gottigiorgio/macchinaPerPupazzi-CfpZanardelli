@@ -5,22 +5,22 @@
  Creato da dei ragazzi del Centro Formativo Provinciale "Giuseppe Zanardelli", a brescia.
 
  ### Collaboratori:
-**Classe 2^L Info**
-Giorgio Gotti - Me :D
-Saleri Enrico
-Dobrea Vittorio
-Chiarini Alberto
-Cozzi Luca
-**Classe 2^I Info**
-Iorio Daniele
-Colella Alessio
-Finardi Andrea
-Cerani Diego - Ispirazione per i Diegometri (vedi repositories)
-**2 IME**
-Ranzenigo Nathan
-**3^G OMU**
-Pelizzari Alessandro
-Singhatwal Navjot
-Uboldi Nicola
+**Classe 2^L Info** <br>
+Giorgio Gotti - Me :D <br>
+Saleri Enrico <br>
+Dobrea Vittorio <br>
+Chiarini Alberto <br>
+Cozzi Luca <br>
+**Classe 2^I Info** <br>
+Iorio Daniele <br>
+Colella Alessio 
+Finardi Andrea <br>
+Cerani Diego - Ispirazione per i Diegometri (vedi repositories) <br>
+**2 IME** <br>
+Ranzenigo Nathan <br>
+**3^G OMU** <br>
+Pelizzari Alessandro <br>
+Singhatwal Navjot <br>
+Uboldi Nicola <br>
 
-*Ringraziamenti Speciali ai professori del CFP per questa occasione*
+*Ringraziamenti Speciali ai professori del CFP per questa occasione* <br>
