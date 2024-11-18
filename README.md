@@ -1,6 +1,6 @@
 # macchinaPerPupazzi CfpZanardelli
  (🇮🇹) 
- Una semplie macchina per pupazzi creara in c++ con arduino IDE.
+ Una semplie macchina per pupazzi creata in c++ con arduino IDE.
 
  Creato da dei ragazzi del Centro Formativo Provinciale "Giuseppe Zanardelli", a brescia.
 
